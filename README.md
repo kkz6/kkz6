@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **anything that is challengin**
 
-- 👨‍💻 All of my projects are available at [https://gigcodes.com](gigcodes.com)
+- 👨‍💻 All of my projects are available at [gigcodes.com](https://gigcodes.com)
 
-- 📝 I regularly write articles on [https://devkarti.com](devkarti.com)
+- 📝 I regularly write articles on [devkarti.com](https://devkarti.com)
 
 - 📫 How to reach me **hello@gigcodes.com**
 
