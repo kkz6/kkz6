@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karthick</h1>
-<h3 align="center">Engineer who also writes better code.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkz6" alt="kkz6" /></a> </p>
+<h1 align="">Hi 👋, I'm Karthick</h1>
+<h3 align="">Engineer who also writes better code.</h3>
 
 <p align="left"> <a href="https://twitter.com/ikkarti" target="blank"><img src="https://img.shields.io/twitter/follow/ikkarti?logo=twitter&style=for-the-badge" alt="ikkarti" /></a> </p>
 
