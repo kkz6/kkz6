@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/ikkarti" target="blank"><img src="https://img.shields.io/twitter/follow/ikkarti?logo=twitter&style=for-the-badge" alt="ikkarti" /></a> </p>
 
-- 🔭 I’m currently working on **secret food reciepe**
+- 🔭 I’m currently working on **graphql nestjs boilerplates**
 
-- 🌱 I’m currently learning **DevOps, App Development**
+- 🌱 I’m currently learning **App Development**
 
-- 👯 I’m looking to collaborate on **anything that is challengin**
+- 👯 I’m looking to collaborate on **anything that is challenging**
 
 - 👨‍💻 All of my projects are available at [gigcodes.com](https://gigcodes.com)
 
