@@ -1,7 +1,5 @@
 <h1 align="">Hi 👋, I'm Karthick</h1>
-<h3 align="">Engineer who also writes better code.</h3>
-
-<p align="left"> <a href="https://twitter.com/ikkarti" target="blank"><img src="https://img.shields.io/twitter/follow/ikkarti?logo=twitter&style=for-the-badge" alt="ikkarti" /></a> </p>
+<h3 align="">Engineer.</h3>
 
 - 🔭 I’m currently working on **graphql nestjs boilerplates**
 
