@@ -1,7 +1,7 @@
 <h1 align="">Hi 👋, I'm Karthick</h1>
 <h3 align="">Engineer.</h3>
 
-- 🔭 I’m currently working on **LanuchMe**
+- 🔭 I’m currently working on **LaunchMe**
 
 - 🌱 I’m currently learning **Swift, GoLang, ROR**
 
